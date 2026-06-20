@@ -1,0 +1,6 @@
+{
+  "name": "MiTrade",
+  "description": "เว็บแอปพลิเคชันเทรดหุ้นและคริปโตบนมือถือ รองรับระบบหลังบ้าน การจัดการสมาชิก สินทรัพย์ ประวัติการเทรด และแชตสด",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
